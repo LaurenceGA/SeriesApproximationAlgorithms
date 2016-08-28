@@ -1,6 +1,6 @@
 # Series approximation
 
-A collection of programs that through the use of infinite mathematical series' approximate constants.  
+A collection of programs, that through the use of infinite mathematical series, approximate constants.  
 Constants approximated are pi and e.  
 
 Initially personally formulated taylor (specifically McLaurin) series' were used.  
